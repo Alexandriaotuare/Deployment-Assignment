@@ -397,7 +397,7 @@ audio,
 iframe,
 embed,
 object {
-  display: inline-block;
+  display: block;
   /* 1 */
   vertical-align: middle;
   /* 2 */
